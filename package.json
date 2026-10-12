@@ -25,7 +25,7 @@
     "dexie": "^4.4.2",
     "pinia": "^3.0.3",
     "tasmota-webserial-esptool": "^9.2.21",
-    "vue": "^3.5.18",
+    "vue": "^3.5.43",
     "vuetify": "^4.0.7"
   },
   "devDependencies": {
@@ -33,14 +33,14 @@
     "@types/node": "^25.6.2",
     "@types/w3c-web-serial": "^1.0.8",
     "@vitejs/plugin-vue": "^6.0.1",
-    "electron": "^42.0.1",
+    "electron": "^42.10.0",
     "electron-builder": "^26.8.1",
     "esbuild": "^0.28.0",
     "fake-indexeddb": "^6.2.5",
     "resedit": "^3.0.2",
     "typescript": "^6.0.3",
     "vite": "^8.0.11",
-    "vitest": "^4.1.6",
+    "vitest": "^5.0.4",
     "vue-tsc": "^3.0.5"
   },
   "allowScripts": {
